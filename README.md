@@ -24,3 +24,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="60px" height="60px">&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80px" height="70px">&nbsp
 </div>
+
+
+
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drumpg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+    
+
+
