@@ -15,15 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Languages & Tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C">&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash">&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML">&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS">&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang">&nbsp
+<html>
+  <style>
+    img {
+      width: 50px;
+      height: 50px;
+    }
+  </style>
+  <body>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C">&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash">&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML">&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS">&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang">&nbsp
+  </body>
+</html>
 
-<style>
-img {
-  width: 50px;
-  height: 50px;
-}
-</style>
